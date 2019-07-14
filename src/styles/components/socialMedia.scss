@@ -1,0 +1,45 @@
+.socialMediaHeader{
+    line-height: 32px !important;
+    font-size: 26px !important;
+    font-family: UberMove-Medium;
+    letter-spacing: 0.03em !important;
+}
+.socialMediaSubHeader{
+    margin-top: 8px !important;
+    -webkit-box-align: center !important;
+    align-items: center;
+}
+.deliverySliderdetails{
+    font-weight: normal !important;
+    // font-family: UberMoveText-Regular;
+    line-height: 24px;
+    font-size: 16px;
+    color: #1F1F1F;
+    -webkit-font-smoothing: antialiased;
+}
+.deliverySliderIcon{
+    padding-left: 1.5rem !important;
+    margin-bottom:1rem !important;
+}
+.deliverySliderMobile{
+    line-height: 24px;
+    font-size: 1.6rem;
+    color: #1F1F1F;
+    -webkit-font-smoothing: antialiased; 
+    font-weight: 510 !important;
+    padding-left: 1rem;
+}
+.deliverySliderPlayStore{
+    margin-left: 1.7rem !important;
+    margin-bottom: 1rem !important;
+    width: 1.65rem!important;
+}
+.socialMediaLink{
+    color: #247A00;
+    line-height: 24px;
+    font-size: 1.6rem;
+}
+.socialMediaLink:hover{
+    text-decoration: underline;
+    color: #247A00;
+}

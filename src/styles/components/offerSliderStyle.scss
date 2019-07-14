@@ -1,0 +1,103 @@
+// .offerSliderHeader {
+//     font-size: 15px;
+//     min-height: 40px;
+//     display: flex;
+//     align-items: center;
+//     padding-top: 22px !important;
+//     padding-right: 20px !important;
+//     justify-content: space-between;
+// }
+
+.DeliverySliderDetails{
+    display: inline-block;
+    margin-top:0.5em;
+    margin-right:0.6em;
+    padding: 2px 8px;
+    background-color: #F5F5F5;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    line-height: 20px;
+    font-size: 14px;
+    white-space: nowrap;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    font-family: UberMoveText-Regular;
+    -webkit-box-align: center;
+    align-items: center;
+    color: #1F1F1F;
+}
+.DeliverySliderDetails span{
+    -webkit-box-align: center;
+    align-items: center;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-direction: normal;
+    line-height: 20px;
+    font-size:14px;
+    white-space: nowrap;
+    font-family: UberMoveText-Regular;
+    color: #1F1F1F;
+    -webkit-font-smoothing: antialiased;
+}
+.deliverySliderHeader{
+    line-height:1em !important; 
+    font-weight: normal !important;
+}
+.deliverySliderSubHeader{
+    line-height:0 !important;
+    color: #757575 !important;
+    font-size: 1.4rem !important;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-family: UberMoveText-Regular;
+    -webkit-font-smoothing: antialiased;
+    font-weight: normal !important;
+}
+
+
+    
+
+
+// .offerSliderDots {
+//     list-style: none;
+//     text-align: center;
+//     float: right; //  margin:5px 20px 10px;
+//     transform: translate3d(0px, 0px, 0px);
+//     padding-right: 1em;
+//     margin-top:0.5em !important;
+//     margin-bottom:1.5em !important;
+// }
+
+// .offerSliderDots li {
+//     padding: 0 5px;
+//     position: relative;
+//     display: inline-block;
+//     cursor: pointer;
+// }
+
+// .offerSliderDots li button {
+//     width: 10px;
+//     height: 10px;
+//     border: none;
+//     background-color: #ddd;
+//     border-radius: 50%;
+//     font-size: 0;
+//     line-height: 0;
+//     display: block;
+//     cursor: pointer;
+//     color: transparent;
+//     position: relative;
+//     z-index: 99;
+//     transition: all .5s linear 0s;
+// }
+
+// .offerViewAllBtn {
+//     margin-left: 10px !important;
+// }
+// .offerPrice{
+//     font-weight: 500 !important;
+//     font-size: 1.5em !important;
+//     color:#247F9E !important;
+//     float:right;
+// }

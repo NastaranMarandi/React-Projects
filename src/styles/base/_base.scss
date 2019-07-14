@@ -1,0 +1,25 @@
+// Colors
+// Spacing
+$s-size: 1.2rem;
+$m-size: 1.8rem;
+$l-size: 2.6rem;
+$xl-size: 4.8rem;
+$desktop-breakpoint: 45rem;
+
+html {
+  font-size: 62.5%;
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+body {
+  // color: #000000 !important;
+  direction: ltr;
+  width: 100% !important;
+  // font-family:IRANSans !important;
+  // font-size:$s-size; 
+  margin: 0;
+}
+
